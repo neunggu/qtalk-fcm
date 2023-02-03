@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "qtalk-e12cb",
+  "private_key_id": "123412342231231412",
+  "private_key": "-----BEGIN PRIVATE KEY-----HfOir28H\n-----END PRIVATE KEY-----\n",
+  "client_email": "",
+  "client_id": "1234567",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
+}
